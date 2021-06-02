@@ -1,0 +1,162 @@
+C:\Users\onure\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\FormDesktopApp.exe.config
+C:\Users\onure\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\FormDesktopApp.exe
+C:\Users\onure\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\FormDesktopApp.pdb
+C:\Users\onure\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.LoginGUI.resources
+C:\Users\onure\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.Properties.Resources.resources
+C:\Users\onure\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.csproj.GenerateResource.cache
+C:\Users\onure\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.exe
+C:\Users\onure\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.pdb
+C:\Users\onure\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.AdminGUI.AdminEmployeeManagementGUI.resources
+C:\Users\onure\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.AdminGUI.AdminScheduleGUI.resources
+D:\Documents\Personal\Fontys\2020\Semester 2\Project\DesktopApplication\Git\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\FormDesktopApp.exe.config
+D:\Documents\Personal\Fontys\2020\Semester 2\Project\DesktopApplication\Git\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\FormDesktopApp.exe
+D:\Documents\Personal\Fontys\2020\Semester 2\Project\DesktopApplication\Git\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\FormDesktopApp.pdb
+D:\Documents\Personal\Fontys\2020\Semester 2\Project\DesktopApplication\Git\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.csprojAssemblyReference.cache
+D:\Documents\Personal\Fontys\2020\Semester 2\Project\DesktopApplication\Git\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.AdminGUI.AdminEmployeeManagementGUI.resources
+D:\Documents\Personal\Fontys\2020\Semester 2\Project\DesktopApplication\Git\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.AdminGUI.AdminScheduleGUI.resources
+D:\Documents\Personal\Fontys\2020\Semester 2\Project\DesktopApplication\Git\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.LoginGUI.resources
+D:\Documents\Personal\Fontys\2020\Semester 2\Project\DesktopApplication\Git\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.Properties.Resources.resources
+D:\Documents\Personal\Fontys\2020\Semester 2\Project\DesktopApplication\Git\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.csproj.GenerateResource.cache
+D:\Documents\Personal\Fontys\2020\Semester 2\Project\DesktopApplication\Git\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.csproj.CoreCompileInputs.cache
+D:\Documents\Personal\Fontys\2020\Semester 2\Project\DesktopApplication\Git\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.exe
+D:\Documents\Personal\Fontys\2020\Semester 2\Project\DesktopApplication\Git\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.pdb
+\\vmware-host\Shared Folders\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.AdminGUI.AdminEmployeeManagementGUI.resources
+\\vmware-host\Shared Folders\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.AdminGUI.AdminScheduleGUI.resources
+\\vmware-host\Shared Folders\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.LoginGUI.resources
+\\vmware-host\Shared Folders\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.Properties.Resources.resources
+\\vmware-host\Shared Folders\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.exe
+\\vmware-host\Shared Folders\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.pdb
+\\vmware-host\Shared Folders\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\FormDesktopApp.exe.config
+\\vmware-host\Shared Folders\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\FormDesktopApp.exe
+\\vmware-host\Shared Folders\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\FormDesktopApp.pdb
+\\vmware-host\Shared Folders\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\BouncyCastle.Crypto.dll
+\\vmware-host\Shared Folders\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\Google.Protobuf.dll
+\\vmware-host\Shared Folders\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\MySql.Data.dll
+\\vmware-host\Shared Folders\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\Renci.SshNet.dll
+\\vmware-host\Shared Folders\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\Ubiety.Dns.Core.dll
+\\vmware-host\Shared Folders\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\Google.Protobuf.xml
+\\vmware-host\Shared Folders\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\MySql.Data.xml
+\\vmware-host\Shared Folders\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\Renci.SshNet.xml
+\\vmware-host\Shared Folders\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.csproj.CopyComplete
+C:\Users\Onur\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\FormDesktopApp.exe.config
+C:\Users\Onur\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\FormDesktopApp.exe
+C:\Users\Onur\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\FormDesktopApp.pdb
+C:\Users\Onur\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Onur\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\Google.Protobuf.dll
+C:\Users\Onur\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\MySql.Data.dll
+C:\Users\Onur\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\Renci.SshNet.dll
+C:\Users\Onur\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Onur\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\Google.Protobuf.xml
+C:\Users\Onur\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\MySql.Data.xml
+C:\Users\Onur\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\Renci.SshNet.xml
+C:\Users\Onur\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.csprojAssemblyReference.cache
+C:\Users\Onur\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.AdminGUI.AdminDepartmentsGUI.resources
+C:\Users\Onur\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.AdminGUI.AdminEmployeeManagementGUI.resources
+C:\Users\Onur\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.AdminGUI.AdminScheduleGUI.resources
+C:\Users\Onur\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.LoginGUI.resources
+C:\Users\Onur\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.Properties.Resources.resources
+C:\Users\Onur\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.csproj.GenerateResource.cache
+C:\Users\Onur\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.csproj.CoreCompileInputs.cache
+C:\Users\Onur\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.csproj.CopyComplete
+C:\Users\Onur\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.exe
+C:\Users\Onur\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.pdb
+C:\Users\onure\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\onure\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\Google.Protobuf.dll
+C:\Users\onure\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\MySql.Data.dll
+C:\Users\onure\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\Renci.SshNet.dll
+C:\Users\onure\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\onure\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\Google.Protobuf.xml
+C:\Users\onure\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\MySql.Data.xml
+C:\Users\onure\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\Renci.SshNet.xml
+C:\Users\onure\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.csproj.CopyComplete
+C:\Users\onure\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.ManagerGUI.ManagerStatisticsGUI.resources
+C:\Users\onure\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.AdminGUI.AdminRemoveEmployeeGUI.resources
+C:\Users\PC\Desktop\S2-Project\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\FormDesktopApp.exe.config
+C:\Users\PC\Desktop\S2-Project\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\FormDesktopApp.exe
+C:\Users\PC\Desktop\S2-Project\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\FormDesktopApp.pdb
+C:\Users\PC\Desktop\S2-Project\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\PC\Desktop\S2-Project\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\Google.Protobuf.dll
+C:\Users\PC\Desktop\S2-Project\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\MySql.Data.dll
+C:\Users\PC\Desktop\S2-Project\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\Renci.SshNet.dll
+C:\Users\PC\Desktop\S2-Project\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\PC\Desktop\S2-Project\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\Google.Protobuf.xml
+C:\Users\PC\Desktop\S2-Project\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\MySql.Data.xml
+C:\Users\PC\Desktop\S2-Project\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\Renci.SshNet.xml
+C:\Users\PC\Desktop\S2-Project\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\S2-Project\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.AdminGUI.AdminEmployeeManagementGUI.resources
+C:\Users\PC\Desktop\S2-Project\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.AdminGUI.AdminRemoveEmployeeGUI.resources
+C:\Users\PC\Desktop\S2-Project\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.AdminGUI.AdminScheduleGUI.resources
+C:\Users\PC\Desktop\S2-Project\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.LoginGUI.resources
+C:\Users\PC\Desktop\S2-Project\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.ManagerGUI.ManagerStatisticsGUI.resources
+C:\Users\PC\Desktop\S2-Project\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.Properties.Resources.resources
+C:\Users\PC\Desktop\S2-Project\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\S2-Project\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.csproj.CopyComplete
+C:\Users\PC\Desktop\S2-Project\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.exe
+C:\Users\PC\Desktop\S2-Project\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.pdb
+C:\Users\onure\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.AdminGUI.AdminOverviewGUI.resources
+\\vmware-host\Shared Folders\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.AdminGUI.AdminRemoveEmployeeGUI.resources
+\\vmware-host\Shared Folders\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.ManagerGUI.ManagerStatisticsGUI.resources
+C:\Users\onure\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.csprojAssemblyReference.cache
+C:\xampp\htdocs\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.csprojAssemblyReference.cache
+C:\xampp\htdocs\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.AdminGUI.AdminEmployeeManagementGUI.resources
+C:\xampp\htdocs\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.AdminGUI.AdminProductGUI.resources
+C:\xampp\htdocs\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.AdminGUI.AdminRemoveEmployeeGUI.resources
+C:\xampp\htdocs\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.AdminGUI.AdminScheduleGUI.resources
+C:\xampp\htdocs\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.LoginGUI.resources
+C:\xampp\htdocs\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.ManagerGUI.ManagerStatisticsGUI.resources
+C:\xampp\htdocs\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.Properties.Resources.resources
+C:\xampp\htdocs\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.csproj.GenerateResource.cache
+C:\xampp\htdocs\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\FormDesktopApp.exe.config
+C:\xampp\htdocs\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\FormDesktopApp.exe
+C:\xampp\htdocs\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\FormDesktopApp.pdb
+C:\xampp\htdocs\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\xampp\htdocs\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\Google.Protobuf.dll
+C:\xampp\htdocs\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\MySql.Data.dll
+C:\xampp\htdocs\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\Renci.SshNet.dll
+C:\xampp\htdocs\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\Ubiety.Dns.Core.dll
+C:\xampp\htdocs\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\Google.Protobuf.xml
+C:\xampp\htdocs\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\MySql.Data.xml
+C:\xampp\htdocs\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\Renci.SshNet.xml
+C:\xampp\htdocs\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.csproj.CopyComplete
+C:\xampp\htdocs\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.exe
+C:\xampp\htdocs\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.pdb
+C:\Users\PC\Desktop\S2-Project\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.AdminGUI.AdminProductGUI.resources
+C:\Users\PC\Desktop\S2-Project\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.ManagerGUI.ManagerEmployeesGUI.resources
+C:\Users\PC\Desktop\S2-Project\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.ManagerGUI.MEmployeeInfoGUI.resources
+C:\Users\PC\Desktop\S2-Project\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.ManagerGUI.ManagerStockGUI.resources
+C:\Users\PC\Desktop\S2-Project\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.ShopGUI.ShopForm.resources
+D:\Documents\Personal\Fontys\2020\Semester 2\Project\DesktopApplication\Git\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.AdminGUI.AdminProductGUI.resources
+D:\Documents\Personal\Fontys\2020\Semester 2\Project\DesktopApplication\Git\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.AdminGUI.AdminRemoveEmployeeGUI.resources
+D:\Documents\Personal\Fontys\2020\Semester 2\Project\DesktopApplication\Git\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.ManagerGUI.ManagerEmployeesGUI.resources
+D:\Documents\Personal\Fontys\2020\Semester 2\Project\DesktopApplication\Git\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.ManagerGUI.ManagerStatisticsGUI.resources
+D:\Documents\Personal\Fontys\2020\Semester 2\Project\DesktopApplication\Git\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.ManagerGUI.ManagerStockGUI.resources
+D:\Documents\Personal\Fontys\2020\Semester 2\Project\DesktopApplication\Git\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.ManagerGUI.MEmployeeInfoGUI.resources
+D:\Documents\Personal\Fontys\2020\Semester 2\Project\DesktopApplication\Git\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.ShopGUI.ShopForm.resources
+D:\Documents\Personal\Fontys\2020\Semester 2\Project\DesktopApplication\Git\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\BouncyCastle.Crypto.dll
+D:\Documents\Personal\Fontys\2020\Semester 2\Project\DesktopApplication\Git\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\Google.Protobuf.dll
+D:\Documents\Personal\Fontys\2020\Semester 2\Project\DesktopApplication\Git\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\MySql.Data.dll
+D:\Documents\Personal\Fontys\2020\Semester 2\Project\DesktopApplication\Git\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\Renci.SshNet.dll
+D:\Documents\Personal\Fontys\2020\Semester 2\Project\DesktopApplication\Git\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\Ubiety.Dns.Core.dll
+D:\Documents\Personal\Fontys\2020\Semester 2\Project\DesktopApplication\Git\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\Google.Protobuf.xml
+D:\Documents\Personal\Fontys\2020\Semester 2\Project\DesktopApplication\Git\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\MySql.Data.xml
+D:\Documents\Personal\Fontys\2020\Semester 2\Project\DesktopApplication\Git\projectsem2\FormDesktopApp\FormDesktopApp\bin\Debug\Renci.SshNet.xml
+D:\Documents\Personal\Fontys\2020\Semester 2\Project\DesktopApplication\Git\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.csproj.CopyComplete
+C:\xampp\htdocs\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.AdminGUI.AdminDepartmentsGUI.resources
+C:\xampp\htdocs\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.ManagerGUI.ManagerEmployeesGUI.resources
+C:\xampp\htdocs\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.ManagerGUI.ManagerStockGUI.resources
+C:\xampp\htdocs\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.ManagerGUI.MEmployeeInfoGUI.resources
+C:\xampp\htdocs\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.ShopGUI.ShopForm.resources
+C:\Users\PC\Desktop\S2-Project\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.AdminGUI.AdminDepartmentsGUI.resources
+D:\Documents\Personal\Fontys\2020\Semester 2\Project\DesktopApplication\Git\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.AdminGUI.AdminDepartmentsGUI.resources
+\\vmware-host\Shared Folders\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.AdminGUI.AdminDepartmentsGUI.resources
+\\vmware-host\Shared Folders\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.AdminGUI.AdminProductGUI.resources
+\\vmware-host\Shared Folders\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.ManagerGUI.ManagerEmployeesGUI.resources
+\\vmware-host\Shared Folders\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.ManagerGUI.ManagerStockGUI.resources
+\\vmware-host\Shared Folders\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.ManagerGUI.MEmployeeInfoGUI.resources
+\\vmware-host\Shared Folders\Desktop\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.ShopGUI.ShopForm.resources
+C:\Users\PC\Desktop\S2-Project\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.ManagerGUI.MProductInfoGUI.resources
+C:\xampp\htdocs\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.ManagerGUI.MProductInfoGUI.resources
+D:\Documents\Personal\Fontys\2020\Semester 2\Project\DesktopApplication\Git\projectsem2\FormDesktopApp\FormDesktopApp\obj\Debug\FormDesktopApp.ManagerGUI.MProductInfoGUI.resources
